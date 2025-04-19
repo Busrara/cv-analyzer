@@ -9,6 +9,8 @@ The **CV Analyzer Tool** is a Python application that helps evaluate a candidate
 - **Keyword Matching**: Compares the extracted keywords from the CV with the job description and calculates the matching percentage.
 - **Missing Keywords Report**: Identifies any missing keywords from the CV that are present in the job description.
 
+Don't skip to read my Medium writig for understanding each step: https://medium.com/@busraracoban/how-to-build-your-own-ai-powered-cv-analyzer-with-python-and-nlp-bc5471123f07 
+
 ## Installation
 
 To use the CV Analyzer Tool, follow these steps:
