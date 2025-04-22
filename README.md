@@ -17,4 +17,4 @@ To use the CV Analyzer Tool, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/busraracoban/cv-analyzer.git
+   git clone https://github.com/Busrara/cv-analyzer.git
